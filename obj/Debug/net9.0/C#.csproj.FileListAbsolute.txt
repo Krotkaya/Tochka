@@ -1,0 +1,14 @@
+/Users/aleksandakrotkaa/Documents/C#/bin/Debug/net9.0/C#
+/Users/aleksandakrotkaa/Documents/C#/bin/Debug/net9.0/C#.deps.json
+/Users/aleksandakrotkaa/Documents/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/aleksandakrotkaa/Documents/C#/bin/Debug/net9.0/C#.dll
+/Users/aleksandakrotkaa/Documents/C#/bin/Debug/net9.0/C#.pdb
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.dll
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.pdb
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/aleksandakrotkaa/Documents/C#/obj/Debug/net9.0/ref/C#.dll
